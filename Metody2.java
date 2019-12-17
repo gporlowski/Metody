@@ -1,4 +1,4 @@
-public class Znaki9 {
+public class Metody2 {
   public static void main(String[] args) {
     String firstString = "Ala ma ", secondString = "kota i psa.";
     System.out.println(concatenate(firstString, secondString));
